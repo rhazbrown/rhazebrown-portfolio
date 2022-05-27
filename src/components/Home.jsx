@@ -15,10 +15,11 @@ const Home = () => {
           I'm a Front-End Web Developer.
         </h2>
         <p className="text-[#ccd6f6] py-4 max-w-[700px]">
-          I’m a Front-End Developer with proficient 1year+ React expertise and
-          entire development life cycle. Increased speed of product lifecycle
-          and 100% of the time delivered fully responsive projects within
-          deadline, great at conducting debugging and manual testing for better
+          I’m a Front-End Developer with about 4 years experience in HTML, CSS
+          and JavaScript. More than 2-years proficiency in React (JS) and a
+          strong understanding of the entire software development lifecycle.
+          Able to deliver projects within the allotted timeline with great
+          quality, great at conducting debugging and manual testing for better
           company-client relationship.
         </p>
         <Link to="work" smooth={true} duration={500}>

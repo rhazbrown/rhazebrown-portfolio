@@ -6,7 +6,6 @@ import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Git from "../assets/git-logo.png";
 import Tailwind from "../assets/tailwind.png";
-
 const Skills = () => {
   return (
     <div name="skills" className="w-full h-screen bg-[#09111c] text-gray-300">
@@ -16,7 +15,7 @@ const Skills = () => {
           <p className="text-4xl font-bold inline border-b-4 border-pink-600 ">
             Skills
           </p>
-          <p className="py-4">// These are the technologies I've worked with</p>
+          <p className="py-4">\\ These are the technologies I've worked with</p>
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-6">
